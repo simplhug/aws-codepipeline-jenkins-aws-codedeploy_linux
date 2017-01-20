@@ -5,6 +5,7 @@ require 'minitest/autorun'
 require 'socket'
 
 
+
 class JenkinsSampleTest < MiniTest::Unit::TestCase
   def setup
     uri_params = {
